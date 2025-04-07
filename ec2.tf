@@ -10,3 +10,5 @@ resource "aws_instance" "server1" {
       Name = "Terraform_instance"
     }
 }
+
+// Josiane
